@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+<title id="title">Laptop with code on the screen</title>
+<desc id="desc">A simple vector illustration of a laptop showing colorful code lines on a blue background.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#dce7ff"/></linearGradient><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17233b"/><stop offset="1" stop-color="#293d68"/></linearGradient></defs>
+<rect width="640" height="420" rx="28" fill="url(#bg)"/>
+<circle cx="530" cy="70" r="40" fill="#baf4dc"/><circle cx="94" cy="325" r="52" fill="#cbd7ff"/>
+<g transform="translate(92 62)">
+<rect x="52" y="12" width="360" height="240" rx="18" fill="#17233b"/>
+<rect x="66" y="27" width="332" height="210" rx="8" fill="url(#screen)"/>
+<circle cx="232" cy="20" r="3" fill="#7e8ca8"/>
+<rect x="91" y="58" width="90" height="10" rx="5" fill="#baf4dc"/>
+<rect x="91" y="83" width="172" height="8" rx="4" fill="#7ea1ff"/>
+<rect x="111" y="105" width="220" height="8" rx="4" fill="#f5c67a"/>
+<rect x="111" y="127" width="154" height="8" rx="4" fill="#c5d2f5"/>
+<rect x="91" y="149" width="195" height="8" rx="4" fill="#a3f0d3"/>
+<rect x="111" y="171" width="238" height="8" rx="4" fill="#7ea1ff"/>
+<rect x="111" y="193" width="130" height="8" rx="4" fill="#f5c67a"/>
+<path d="M20 252h424l-38 50H58z" fill="#b8c6e2" stroke="#8092b7" stroke-width="3" stroke-linejoin="round"/>
+<path d="M175 260h115l-10 13h-95z" fill="#8092b7"/>
+</g>
+<g font-family="Arial,sans-serif" font-weight="700" font-size="24"><rect x="36" y="58" width="64" height="50" rx="12" fill="#315efb"/><text x="68" y="90" text-anchor="middle" fill="#fff">&lt;/&gt;</text><rect x="498" y="294" width="90" height="54" rx="14" fill="#17233b"/><text x="543" y="329" text-anchor="middle" fill="#baf4dc">0101</text></g>
+</svg>
